@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I’m currently learning C<br>⚡ Looking for a project
+📖 I’m currently learning C<br>⚡ Looking for a project<br>😎 Contact me on Discord : Melman#6771
 
 
 ## 🌐 Socials:
