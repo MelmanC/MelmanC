@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏊 I’m currently in pool <br>🤝 Need help ? discord : melman___<br>🌱 Learning 'c' language... 
+🏫 Currently at Epitech <br>🤝 Need help ? discord : melman___<br>🌱 Learning Rust... 
 
 
 # 💻 Tech Stack:
